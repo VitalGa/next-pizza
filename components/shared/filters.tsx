@@ -59,7 +59,47 @@ export const Filters: React.FC<Props> = ({ className }) => {
         ]}
         items={[
           {
-            text: 'Бекон',
+            text: 'Картошка',
+            value: '1',
+          },
+          {
+            text: 'Грибы',
+            value: '2',
+          },
+          {
+            text: 'Сыр Моцарелла',
+            value: '3',
+          },
+          {
+            text: 'Пепперони',
+            value: '4',
+          },
+          {
+            text: 'Томаты',
+            value: '5',
+          },
+          {
+            text: 'Шмекон',
+            value: '1',
+          },
+          {
+            text: 'Грибы',
+            value: '2',
+          },
+          {
+            text: 'Сыр Моцарелла',
+            value: '3',
+          },
+          {
+            text: 'Пепперони',
+            value: '4',
+          },
+          {
+            text: 'Томаты',
+            value: '5',
+          },
+          {
+            text: 'Шмекон',
             value: '1',
           },
           {
